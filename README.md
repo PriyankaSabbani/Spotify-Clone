@@ -58,7 +58,7 @@ The bottom music player
 This is a static front-end clone and does not include real music streaming or authentication. It is intended for educational and practice purposes only and is not affiliated with Spotify.
 
 📬 Connect With Me
-GitHub: YourGitHubUsername
+GitHub: PriyankaSabbani
 
 📝 License
 This project is open-source and available under the MIT License.
