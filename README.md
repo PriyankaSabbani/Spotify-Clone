@@ -43,12 +43,15 @@ Edit
 
 
 The main page with cards
+
 ![alt text](image-1.png)
 
 The sticky navbar
+
 ![alt text](image-2.png)
 
 The bottom music player
+
 ![alt text](image-3.png)
 
 ⚠️ Disclaimer
@@ -56,8 +59,6 @@ This is a static front-end clone and does not include real music streaming or au
 
 📬 Connect With Me
 GitHub: YourGitHubUsername
-
-LinkedIn: YourLinkedIn
 
 📝 License
 This project is open-source and available under the MIT License.
